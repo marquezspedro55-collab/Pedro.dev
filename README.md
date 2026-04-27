@@ -1,25 +1,22 @@
-<h1 align="center">👨‍💻 !Pedro.dev</h1>
-
-<h3 align="center">Estudante de Programação | Futuro Desenvolvedor</h3>
+<h1 align="center">👨‍💻 Pedro Henrique</h1>
 
 <p align="center">
-Apaixonado por tecnologia, programação e criação de projetos.<br>
-Sempre aprendendo novas linguagens e evoluindo como desenvolvedor.
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Olá+eu+sou+Pedro+Henrique;Programador+em+formação;Python+|+C+|+JavaScript;Bem-vindo+ao+meu+GitHub"/>
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-- 💻 Estudando programação diariamente
-- 📚 Aprendendo **Python, C e JavaScript**
-- 🧠 Interessado em desenvolvimento de software
-- 🌎 Brasil
-- 🚀 Construindo projetos para meu portfólio
+🎓 Estudante de programação  
+💻 Apaixonado por tecnologia e desenvolvimento de software  
+📚 Atualmente estudando **Python, C e JavaScript**  
+🧠 Sempre aprendendo novas tecnologias  
+🌎 Brasil  
 
 ---
 
-## 🧠 Linguagens e Tecnologias
+## 🧠 Linguagens e Ferramentas
 
 <p align="center">
 
@@ -28,12 +25,13 @@ Sempre aprendendo novas linguagens e evoluindo como desenvolvedor.
 <img src="https://skillicons.dev/icons?i=javascript" height="60"/>
 <img src="https://skillicons.dev/icons?i=git" height="60"/>
 <img src="https://skillicons.dev/icons?i=github" height="60"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="60"/>
 
 </p>
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 Estatísticas do GitHub
 
 <p align="center">
 
@@ -55,34 +53,47 @@ Sempre aprendendo novas linguagens e evoluindo como desenvolvedor.
 
 ---
 
-## 📂 Projetos em destaque
+## 🏆 Troféus GitHub
 
-🚀 **Quiz em Python**  
-Projeto de perguntas e respostas no terminal.
+<p align="center">
 
-🎮 **Pedra Papel Tesoura em C**  
-Jogo clássico feito em linguagem C.
+<img src="https://github-profile-trophy.vercel.app/?username=SEUUSUARIO&theme=tokyonight&no-frame=true&row=1"/>
 
-🌐 **Projetos Web com JavaScript**  
-Aplicações simples para aprendizado de front-end.
+</p>
+
+---
+
+## 📂 Projetos em Destaque
+
+🚀 **Sistema de Quiz Inteligente (Python)**  
+Aplicação interativa de perguntas e respostas com pontuação e lógica de avaliação.
+
+📊 **Gerenciador de Tarefas CLI (Python)**  
+Sistema de gerenciamento de tarefas no terminal com criação, edição e exclusão de tarefas.
+
+🌐 **Dashboard Web Interativo (JavaScript)**  
+Interface web dinâmica com manipulação de dados e elementos interativos.
+
+⚙️ **Sistema de Cadastro em C**  
+Programa em C para cadastro de usuários, login e gerenciamento de dados no terminal.
 
 ---
 
 ## 📈 Objetivos
 
 - Aprender desenvolvimento **Full Stack**
-- Criar projetos cada vez mais complexos
-- Construir um portfólio profissional
-- Trabalhar como desenvolvedor no futuro
+- Criar projetos cada vez mais avançados
+- Construir um portfólio sólido
+- Trabalhar profissionalmente com programação
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Contato
 
 <p align="center">
 
 <a href="https://github.com/SEUUSUARIO">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -90,5 +101,5 @@ Aplicações simples para aprendizado de front-end.
 ---
 
 <p align="center">
-⚡ "A melhor forma de aprender programação é programando."
+⚡ "Todo especialista já foi um iniciante."
 </p>
